@@ -10,6 +10,8 @@ tabulation of machine learning services in cloud
 | Compute Engine   | You can procure VMs, GPUs, TPUs, Disks with this | Compute          |
 |                 |                                                              |                                    |
 
+[source](https://raw.githubusercontent.com/gregsramblings/google-cloud-4-words/master/DarkPoster-medres.png)
+
 ### Reference Articles with Google Cloud Platform
 
 | Category         | Article| Services mentioned                              |
