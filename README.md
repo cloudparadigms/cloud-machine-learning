@@ -1,4 +1,4 @@
-# cloud-machine-learning
+# cloud-machine-learning-awareness
 tabulation of machine learning services in cloud
 
 
@@ -30,3 +30,9 @@ tabulation of machine learning services in cloud
 ## Alibaba Cloud
 
 ## Digital Ocean
+
+## Salesforce
+
+1. Video - [Adding Intelligence To Salesforce Systems With Machine Learning](https://www.salesforce.com/video/306490/)
+2. Services - Einstein Prediction Builder, Einstein Vision, Einstein Bots, Einstein Language, Einstein Discovery, Einstein Next Best Action. [Discover the Einstein Platform services that help you create customized, AI-powered apps.](https://www.salesforce.com/products/platform/solutions/ai-services/?d=cta-body-promo-16)
+3. [Salesforce Einstein AI Research Articles](https://einstein.ai/)
